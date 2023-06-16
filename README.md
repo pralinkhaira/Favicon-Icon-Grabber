@@ -21,6 +21,15 @@ The Favicon Grabber tool has the following dependencies:
 
 Please make sure that these dependencies are accessible and available for the tool to function correctly.
 
+## Screenshots
+
+### Before
+<a href="https://imgur.com/PLaeKPC"><img src="https://i.imgur.com/PLaeKPC.png" title="source: imgur.com" /></a>
+
+
+### After
+<a href="https://imgur.com/GosPNB6"><img src="https://i.imgur.com/GosPNB6.png" title="source: imgur.com" /></a>
+
 ## Contributions
 
 Feel free to contribute to the project or report any issues by creating a pull request or submitting an issue on the repository.
